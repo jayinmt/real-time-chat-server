@@ -1,4 +1,4 @@
-# Real-time Chat Server
+# Real-Time Chat Server
 
 This is a real-time chat server implemented using Elixir and the Phoenix Framework. It allows users to send and receive messages instantly in chat rooms, handles user connections and disconnections, and maintains a list of active users.
 
