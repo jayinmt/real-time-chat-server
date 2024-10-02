@@ -24,7 +24,7 @@ To run the chat server locally, follow these steps:
 
 2. Clone the repository:
    ```
-   git clone https://github.com/your-username/real-time-chat-server.git
+   git clone https://github.com/jayinmt/real-time-chat-server.git
    ```
 
 3. Navigate to the project directory:
